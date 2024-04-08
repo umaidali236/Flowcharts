@@ -2,4 +2,4 @@
 
 this is a sample repository
 
-second commit
+second commi
