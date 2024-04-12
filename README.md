@@ -1,5 +1,3 @@
 # flowcharts
 
-this is a sample repository
-
-second commit
+This is a sample flowcharts repository.
